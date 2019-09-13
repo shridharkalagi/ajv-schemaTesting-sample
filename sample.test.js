@@ -1,4 +1,4 @@
-import schema from './userSchema.json';
+import schema from './userSchemaGenerated.json';
 import data from './userData.json';
 import Ajv from 'ajv';
 
